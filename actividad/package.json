@@ -1,0 +1,25 @@
+{
+  "name": "actividad-1",
+  "version": "1.0.0",
+  "description": "Actividad del Tema 1",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node src/index.mjs"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Todos",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "json-server": "^0.17.4",
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.2"
+  }
+}
