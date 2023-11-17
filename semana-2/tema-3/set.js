@@ -54,3 +54,18 @@ conjuntoFrutas // ?
 // Carrito de compra
 let carritoCompra = new Set()
 
+let s = new Set()
+let t = new Set([1, s])
+// let t = new Set(s)
+t //?
+
+
+let unico = new Set("Mississippi")
+unico //?
+unico.size // ?
+
+unico.add('P')
+unico.delete('P')
+unico.clear()
+unico // ?
+unico.size //?
