@@ -22,7 +22,12 @@ function CargaDocumento() {
             const json = JSON.parse( this.response)
             document.getElementById('demostracion').setAttribute('src', json.imagen)
             document.getElementById('encabezado').innerHTML = json.titulo
+        }else if(isCompletado && this.status == 404){
+            document.getElementById('error').innerText = "No se encontró el archivo solicitado."
+        } else { 
+            document.getElementById('error').innerText = 'cargando...'
         }
+
     }
 
     // Especificar datos de la petición
