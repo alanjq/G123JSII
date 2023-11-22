@@ -4,13 +4,11 @@
 
 [Lista de reproducción](https://www.youtube.com/playlist?list=PLXDgesVAFKPb7-Qs0mK8ImJJU_HTtkEF4)
 
->
 > No olvides ejecutar `npm install` en aquellos proyectos que tengan el archivo `package.json`.
->
-> Revisa el script correspondiente para ejecutar el proyecto, normalmente es `npm start` o `npm run dev`.
->
-> En algunos proyectos se usa el plugin `Go Live` asegúrate de tenerlo instalado en tu VS Code antes de poderlo ejecutar.
->
+
+Revisa el script correspondiente para ejecutar el proyecto, normalmente es `npm start` o `npm run dev`.
+
+En algunos proyectos se usa el plugin `Go Live` asegúrate de tenerlo instalado en tu VS Code antes de poderlo ejecutar.
 
 ### Sesión 1 - Manejadores de paquetes y empaquetadores
 
