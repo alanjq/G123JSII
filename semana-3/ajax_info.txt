@@ -1,0 +1,4 @@
+<hr>
+<h1>AJAX</h1>
+<p>Este contenido viene del archivo <b>ajax_info.txt</b></p>
+<hr>
