@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <script src="app.js"></script> -->
+    <script src="app-put.js"></script>
+</head>
+
+<body>
+    <h1>Formulario POST</h1>
+    <form name="postForm" id="postForm" method="post" action="action">
+        <label for="id">
+            ID
+            <input id="id" name="id" />
+        </label> <br />
+        <label for="nombre">
+            Nombre
+            <input id="nombre" name="nombre" />
+        </label> <br />
+        <label for="correo">
+            Correo
+            <input id="correo" name="correo" />
+        </label> <br />
+        <label for="comentario">
+            Comentario
+            <input id="comentario" name="comentario" />
+        </label> <br />
+    </form>
+    <button type="button" id="enviar" onclick="enviar()">Enviar</button>
+
+    <table>
+        <thead>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Comment</th>
+        </thead>
+        <tbody id="contenidoTabla">
+
+        </tbody>
+    </table>
+
+    <script src="formulario.js"></script>
+</body>
+
+</html>
