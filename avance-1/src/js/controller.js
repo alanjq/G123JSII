@@ -1,4 +1,6 @@
 import { recipeMarkup } from "./recipe-data";
+// import icons from "../img/icons.svg"
+
 
 const recipeContainer = document.querySelector('.recipe');
 
