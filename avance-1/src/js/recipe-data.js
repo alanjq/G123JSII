@@ -3,7 +3,7 @@ import icons from "../img/icons.svg"
 
 
 export const recipeMarkup = (recipe) => `
-<figure class="recipe__fig">
+        <figure class="recipe__fig">
           <img src="${recipe.image_url}" alt="Tomato" class="recipe__img" />
           <h1 class="recipe__title">
             <span>${recipe.title}</span>
