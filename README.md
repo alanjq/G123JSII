@@ -12,29 +12,41 @@ En algunos proyectos se usa el plugin `Go Live` asegúrate de tenerlo instalado 
 
 ### Sesión 1 - Manejadores de paquetes y empaquetadores
 
-[Ver sesión 1](https://www.youtube.com/watch?v=pQmbpfjNKMM&list=PLXDgesVAFKPb7-Qs0mK8ImJJU_HTtkEF4&index=1&pp=gAQBiAQB)
+[Ver sesión 1](https://youtu.be/pQmbpfjNKMM)
 
 ___
 
 ### Sesión 2 - Asincronía
 
-[Ver sesión 2](https://www.youtube.com/watch?v=GUI1pmtJ-RY&list=PLXDgesVAFKPb7-Qs0mK8ImJJU_HTtkEF4&index=3)
+[Ver sesión 2](https://youtu.be/GUI1pmtJ-RY)
 ___
 
 ### Sesión 3 - Nuevos tipos y características
 
-[Ver sesión 3](https://www.youtube.com/watch?v=Gwl7WOM8_FA&list=PLXDgesVAFKPb7-Qs0mK8ImJJU_HTtkEF4&index=4&t=3829s)
+[Ver sesión 3](https://youtu.be/Gwl7WOM8_FA)
 
 ___
 
 ### Sesión 4 - Alcance y ámbito de las variables (**Scope** y **this**)
 
-[Ver sesión 4](https://www.youtube.com/watch?v=E-ZEMvqqSLc&list=PLXDgesVAFKPb7-Qs0mK8ImJJU_HTtkEF4&index=5)
+[Ver sesión 4](https://youtu.be/E-ZEMvqqSLc)
 
 ___
 
 ### Sesión 5 - Peticiones con AJAX y Fetch
 
-[Ver sesión 5](https://www.youtube.com/watch?v=4hr5mQ_S6uI&list=PLXDgesVAFKPb7-Qs0mK8ImJJU_HTtkEF4&index=6)
+[Ver sesión 5](https://youtu.be/4hr5mQ_S6uI)
+
+___
+
+### Sesión 6 - Consumiendo APIs y archivos JSON
+
+[Ver sesión 6](https://youtu.be/ARFo7IiShxY)
+
+___
+
+### Sesión 7 - Transpiladores
+
+[Ver sesión 7](https://youtu.be/DS9n90JIodk)
 
 ___
