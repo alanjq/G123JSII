@@ -50,3 +50,7 @@ ___
 [Ver sesión 7](https://youtu.be/DS9n90JIodk)
 
 ___
+
+### Sesión 8 - Pruebas con Jest
+
+[Ver sesión 8](https://youtu.be/8S9AqLRdnGI)
